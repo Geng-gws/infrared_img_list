@@ -4,14 +4,14 @@
 
 | File | Purpose |
 |---|---|
-| [test_S1.csv](lists/test_S1.csv) | Test images in scene group S1: relatively homogeneous sky. |
-| [test_S2.csv](lists/test_S2.csv) | Test images in scene group S2: heterogeneous or cloudy sky. |
-| [test_S3.csv](lists/test_S3.csv) | Test images in scene group S3: buildings. |
-| [test_S4.csv](lists/test_S4.csv) | Test images in scene group S4: vegetation and natural textures. |
-| [test_S5.csv](lists/test_S5.csv) | Test images in scene group S5: extremely small targets in sky backgrounds. |
-| [test_S6.csv](lists/test_S6.csv) | Test images in scene group S6: extremely small targets in structurally complex backgrounds. |
-| [train.csv](lists/train.csv) | Images used to train the learning-based baselines. |
-| [validation.csv](lists/validation.csv) | Images used for network model selection and detection-threshold selection. |
+| [test_S1.csv](lists/test_S1.csv) | Test images in scene group S1: relatively homogeneous sky |
+| [test_S2.csv](lists/test_S2.csv) | Test images in scene group S2: heterogeneous or cloudy sky |
+| [test_S3.csv](lists/test_S3.csv) | Test images in scene group S3: buildings |
+| [test_S4.csv](lists/test_S4.csv) | Test images in scene group S4: vegetation and natural textures|
+| [test_S5.csv](lists/test_S5.csv) | Test images in scene group S5: extremely small targets in sky backgrounds|
+| [test_S6.csv](lists/test_S6.csv) | Test images in scene group S6: extremely small targets in structurally complex backgrounds |
+| [train.csv](lists/train.csv) | Images used to train the learning-based baselines |
+| [validation.csv](lists/validation.csv) | Images used for network model selection and detection-threshold selection |
 
 ## Source datasets
 
